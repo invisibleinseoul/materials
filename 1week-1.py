@@ -39,7 +39,7 @@ groot=list((1,2,3))  #(1,2,3)- tuple
 #print(bear ,groot)
 
 # dict  : 왼쪽은 key : 의 오른쪽은 value
-
+adobe={"apple":"사과",'banana':"바나나",'orange':"오렌지"}
 print(adobe)
 #dict 자료를 추가하고 싶다 -> update 
 adobe.update({"아보카도":"avocado","딸기":'strawberry'})
